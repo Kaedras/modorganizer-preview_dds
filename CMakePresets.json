@@ -1,10 +1,21 @@
 {
   "configurePresets": [
     {
-      "binaryDir": "${sourceDir}/vsbuild",
       "toolchainFile": "$env{VCPKG_ROOT}/scripts/buildsystems/vcpkg.cmake",
+      "hidden": true,
+      "name": "vcpkg"
+    },
+    {
+      "binaryDir": "${sourceDir}/vsbuild",
+      "inherits": ["vcpkg"],
       "generator": "Visual Studio 17 2022",
       "name": "vs2022-windows"
+    },
+    {
+      "binaryDir": "${sourceDir}/build",
+      "inherits": ["vcpkg"],
+      "generator": "Ninja Multi-Config",
+      "name": "linux"
     }
   ],
   "version": 4
