@@ -4,67 +4,67 @@
   <context>
     <name>DDSFile</name>
     <message>
-      <location filename="DDS\DDSFile.py" line="47" />
+      <location filename="DDS/DDSFile.py" line="47" />
       <source>Magic number mismatch.</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="101" />
+      <location filename="DDS/DDSFile.py" line="101" />
       <source>{0} (equivalent to {1})</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="109" />
+      <location filename="DDS/DDSFile.py" line="109" />
       <source>Red bitmask {0}, Green bitmask {1}, Blue bitmask {2}</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="115" />
+      <location filename="DDS/DDSFile.py" line="115" />
       <source>Luminance bitmask {0}</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="120" />
+      <location filename="DDS/DDSFile.py" line="120" />
       <source>Alpha bitmask {0}</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="122" />
+      <location filename="DDS/DDSFile.py" line="122" />
       <source>{0}×{1}</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="124" />
+      <location filename="DDS/DDSFile.py" line="124" />
       <source>Cubemap</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="124" />
+      <location filename="DDS/DDSFile.py" line="124" />
       <source>2D</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="126" />
+      <location filename="DDS/DDSFile.py" line="126" />
       <source>Mipmapped</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="126" />
+      <location filename="DDS/DDSFile.py" line="126" />
       <source>No mipmaps</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="128" />
+      <location filename="DDS/DDSFile.py" line="128" />
       <source>{0}, {1} {2}, {3}</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="150" />
+      <location filename="DDS/DDSFile.py" line="150" />
       <source>OpenGL driver incompatible with texture format.</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="DDS\DDSFile.py" line="156" />
+      <location filename="DDS/DDSFile.py" line="156" />
       <source>Cubemap faces must be square</source>
       <translation type="unfinished" />
     </message>
